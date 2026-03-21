@@ -1,2 +1,2 @@
-# SOFE3720_FinalProject_Gr3_CRN74764
+# SOFE3720 FinalProject- Group 3 - CRN74764
 Introduction to AI final project 
