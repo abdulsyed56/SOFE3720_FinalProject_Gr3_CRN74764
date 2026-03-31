@@ -77,6 +77,7 @@ Pathfinding-Visualizer/
 
 ## How to Run
 ### Requirements
+
+```bash  
 ```Python 3.x
-```bash
-```python main.py
+```python main.py  
