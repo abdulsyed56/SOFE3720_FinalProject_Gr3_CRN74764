@@ -28,6 +28,9 @@ You can place a start node, end node, and walls, then watch each algorithm explo
   - path length
   - runtime
 
+<img width="464" height="277" alt="Screenshot 2026-03-31 174827" src="https://github.com/user-attachments/assets/bc6c6ff5-e1dd-4dc8-b501-fd8f9119fef1" />
+
+
 ---
 
 ## Algorithms
