@@ -1,5 +1,8 @@
-# SOFE3720 FinalProject
+# Introduction to A.I. Final Project
 ### Group 3 - CRN74764
+Abdul Aziz Syed   
+Areeb Khan  
+Nehal Rauf  
 ---  
 
 # Pathfinding Visualizer (A*, Greedy, UCS)
