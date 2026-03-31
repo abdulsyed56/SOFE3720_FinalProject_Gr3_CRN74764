@@ -1,4 +1,5 @@
-# SOFE3720 FinalProject- Group 3 - CRN74764
+# SOFE3720 FinalProject
+### Group 3 - CRN74764
 ---  
 
 # Pathfinding Visualizer (A*, Greedy, UCS)
