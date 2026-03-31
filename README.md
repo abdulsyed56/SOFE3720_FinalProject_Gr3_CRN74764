@@ -47,17 +47,14 @@ You can place a start node, end node, and walls, then watch each algorithm explo
 
 ---  
 
-## Project Structure
+## Project Structure  
 
-Pathfinding-Visualizer/
-│
-├── main.py                # Main program (UI + A*, Greedy, UCS logic)
-├── DIAGRAMS.pdf           # Use case + class diagrams (system design)
-├── README.md              # Project overview and instructions
-│
-└── (optional)
-    ├── screenshots/       # Demo images for README/report
-    └── report.pdf         # Final project report (if included)
+Pathfinding-Visualizer/  
+│  
+├── main.py                # Main program (UI + A*, Greedy, UCS logic)  
+├── DIAGRAMS.pdf           # Use case + class diagrams (system design)  
+├── README.md              # Project overview and instructions  
+
 ---
 
 ### File Details
