@@ -79,5 +79,5 @@ Pathfinding-Visualizer/
 ### Requirements
 
 ```bash  
-```Python 3.x
-```python main.py  
+python 3.x
+python main.py  
