@@ -81,6 +81,8 @@ Pathfinding-Visualizer/
 ## How to Run
 ### Requirements
 
+**Open Git Bash and run:** *git clone https://github.com/abdulsyed56/SOFE3720_FinalProject_Gr3_CRN74764.git*
+
 ```bash  
 python 3.x
 python main.py  
